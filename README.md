@@ -10,8 +10,8 @@ Web Site: [http://scalecube.io](http://scalecube.io/)
 
 ## Project Status
 
-This is now a beta version of the project. 
-Your [feedback](https://github.com/scalecube/scalecube/issues) is welcome.
+You are more then welcome to join us. Your [feedback](https://github.com/scalecube/scalecube/issues) is welcome.
+or just show your support by granting us a small star :)
 
 ## Maven
 
@@ -24,7 +24,7 @@ To add a dependency on ScaleCube cluster using Maven, use the following:
 <dependency>
   <groupId>io.scalecube</groupId>
   <artifactId>scalecube-cluster</artifactId>
-  <version>1.0.2</version>
+  <version>x.y.z</version>
 </dependency>
 ```
 
@@ -34,7 +34,7 @@ To add a dependency on ScaleCube services using Maven, use the following:
 <dependency>
   <groupId>io.scalecube</groupId>
   <artifactId>scalecube-services</artifactId>
-  <version>1.0.2</version> 
+  <version>x.y.z</version> 
 </dependency>
 ```
 
