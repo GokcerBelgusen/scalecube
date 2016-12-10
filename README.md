@@ -3,8 +3,16 @@
 [![Build Status](https://travis-ci.org/scalecube/scalecube.svg?branch=master)](https://travis-ci.org/scalecube/scalecube)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.scalecube/scalecube-cluster/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.scalecube/scalecube-cluster)
 
-ScaleCube is a lightweight decentralized cluster membership, failure detection, messaging and gossip protocol library 
-for the Java VM.
+## Features
+
+### MICROSERVICES
+ScaleCube provides a low latency Reactive Microservices library peer-to-peer service registry and discovery based on gossip protocol no single point-of-failure or bottlenecks.
+
+### CLUSTER
+Cluster provides a fault-tolerant decentralized peer-to-peer based cluster membership service with no single point of failure or single point of bottleneck. It does this using gossip protocol and an scalable and efficient failure detection algorithm.
+
+### TRANSPORT
+The Transport module is communication layer of nodes and service. its main goal is to deal with managing message exchange
 
 Web Site: [http://scalecube.io](http://scalecube.io/)
 
@@ -12,6 +20,17 @@ Web Site: [http://scalecube.io](http://scalecube.io/)
 
 You are more then welcome to join us. Your [feedback](https://github.com/scalecube/scalecube/issues) is welcome.
 or just show your support by granting us a small star :)
+
+## Support
+Chat with us or get support: https://gitter.im/scalecube/Lobby
+
+## User Guide
+
+[Services Overview] (http://scalecube.io/services.html)
+[Defining Services] (http://scalecube.io/user-reference/services/DefineService.html)
+[Implementing services] (http://scalecube.io/user-reference/services/ServiceImplementation.html)
+[Provisioning Clustered Services] (http://scalecube.io/user-reference/services/ProvisionClusterServices.html)
+[Consuming services] (http://scalecube.io/user-reference/services/ConsumingServices.html)
 
 ## Maven
 
